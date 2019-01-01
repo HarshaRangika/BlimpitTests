@@ -1,0 +1,4 @@
+
+How to run all tests : Open terminal and Type "mocha" Press enter.
+
+How to run single test file : Open terminal and go to test folder "cd test" Press enter. Then type "mocha + file_name" press enter.
